@@ -32,12 +32,6 @@ Frameworks, Platforms and Libraries
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=codedbyankit&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-
 
 📺 Latest YouTube Videos
 
