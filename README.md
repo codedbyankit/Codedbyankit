@@ -152,3 +152,7 @@ Python   3 hrs 58 mins    ██████████████████
 <!--END_SECTION:waka-->
 ![views](https://visitor-badge-deno.deno.dev/codedbyankit.REPO_NAME.svg)
 
+![Commits](https://img.shields.io/badge/Commits-700-brightgreen)
+![Grade](https://img.shields.io/badge/Grade-A-blue)
+![Projects](https://img.shields.io/badge/Projects-10-important)
+
