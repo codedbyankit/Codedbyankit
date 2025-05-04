@@ -139,10 +139,11 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td>
+    <td align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     </td>
-    <td>
+    <td width="50%"></td> <!-- Spacer column -->
+    <td align="right">
       <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
     </td>
   </tr>
