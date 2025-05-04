@@ -30,8 +30,8 @@ Frameworks, Platforms and Libraries
 ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&layout=compact&theme=radical&border=false&include_all_commits=true&count_private=true" />
+<p align="center" style="background-color: white; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&layout=compact&theme=default&border=false&include_all_commits=true&count_private=true" />
 </p>
 
 
