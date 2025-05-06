@@ -5,7 +5,7 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-red?style=social&logo=gmail)](mailto:officials.ankitsingh@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/codedbyankit?style=social)](https://github.com/codedbyankit)
 
-<img src="https://github.com/codedbyankit/final/raw/main/img2.png" alt="Banner" style="width: 100%; height: 25%; object-fit: contain;" />
+<img src="https://raw.githubusercontent.com/codedbyankit/Codedbyankit/refs/heads/main/img2.png" alt="Banner" style="width: 100%; height: 25%; object-fit: contain;" />
 
 <h2>About me</h2>
 
