@@ -1,15 +1,15 @@
 
 <h2 align="center">Hi, I'm Ankit Kumar Singh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishikagupta__?style=social)](https://twitter.com/Rishika5000)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKTBOLj2igRhsYX1RGdV0ww)
-[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ankitizsmart__?style=social)](https://twitter.com/Rishiddska5000)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKTBOLj2igRhsYX1RGdV0ww?style=social)](https://www.youtube.com/channel/UCKdTBOLj2igRhsYX1RGdV0ww)
+[![GitHub followers](https://img.shields.io/github/followers/ankitizsmart2468?style=social)](https://github.com/ankitizsmart2468)
 
 <img src="https://github.com/codedbyankit/final/raw/main/img2.png" alt="Banner" style="width: 100%; height: 25%; object-fit: contain;" />
 
 <h2>About me</h2>
 
-I am Rishika Gupta, currently working as a Senior Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I am Ankit Kumar Singh, currently working as a Senior Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
