@@ -2,8 +2,8 @@
 <h2 align="center">Hi, I'm Ankit Kumar Singh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/ankitizsmart__?style=social)](https://twitter.com/Rishiddska5000)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:officials.ankitsingh@gmail.com)](mailto:cxyfreedom@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/ankitizsmart2468?style=social)](https://github.com/ankitizsmart2468)
+[![Mail Badge](https://img.shields.io/badge/Gmail-red?style=social&logo=gmail)](mailto:officials.ankitsingh@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/codedbyankit?style=social)](https://github.com/codedbyankit)
 
 <img src="https://github.com/codedbyankit/final/raw/main/img2.png" alt="Banner" style="width: 100%; height: 25%; object-fit: contain;" />
 
