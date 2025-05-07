@@ -77,19 +77,19 @@ Core Technical Skills
   </tr>
   <tr>
 <td><a target="_blank" href="https://www.linkedin.com/in/prof-dr-shashi-shekhar-a404b81b9/?originalSubdomain=in">Sashi Shekhar</a></td>
-    <td>Ankit is a passionate Computer Science student with expertise in AI and machine learning. His hands-on work with projects like 3D Scene Completion showcases his technical proficiency and problem-solving skills.</td>
+    <td>Ankit is a passionate Computer Science student with a deep interest in AI and machine learning. I've seen him take on challenging projects like 3D Scene Completion with ease, and his ability to solve complex problems is truly impressive.</td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/sandipkishore/?originalSubdomain=in">Sandeep Kishore</a></td>
-    <td>Ankit consistently demonstrates a strong passion for AI and machine learning. His innovative approach to hands-on projects, like 3D Scene Completion, showcases both his technical aptitude and ability to tackle complex challenges.</td>
+    <td>Working with Ankit has been a great experience. He brings creativity and innovation to the table, especially when tackling complex AI and machine learning problems. His 3D Scene Completion project is just one example of his technical skill and problem-solving ability.</td>
   </tr>
   <tr>
     <td><a target="_blank" href="">Manish Kumar</a></td>
-    <td>Ankit has been an invaluable resource to our batch, always ready to lend a helping hand. His expertise in AI, machine learning, and problem-solving has made complex concepts much easier to understand for all of us.</td>
+    <td>Ankit has always been the go-to person for help in our batch. He has a unique ability to simplify complex AI and machine learning concepts, making them much easier for all of us to grasp</td>
   </tr>
   <tr>
     <td><a target="_blank" href="">Aman Kumar</a></td>
-    <td>Ankit is a great collaborator and a problem solver. His ability to simplify complex topics in AI and machine learning has not only helped me but many others in our batch to grasp difficult concepts with ease.</td>
+    <td>I've learned a lot from Ankit, not just through his knowledge but also his collaborative approach. He breaks down tough AI and machine learning concepts in ways that make them easier to understand, and he’s always willing to lend a hand when someone needs it.</td>
   </tr>
 </table>
 
