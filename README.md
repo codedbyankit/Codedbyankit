@@ -43,15 +43,15 @@ Core Technical Skills
 
 
 
-📺 Latest YouTube Videos
+📺 Latest Project Updates
 
 <!-- latest News About AI -->
-- [AI use kroge to tumhari job to gyi #coding #ai](https://www.youtube.com/watch?v=1GwIHmVvUok)
-- [3 ways to implement Singleton pattern in java? OOP Design Patterns Part-5](https://www.youtube.com/watch?v=531_BR023BE)
-- [What is Singleton Pattern and when to use it? OOP Design Patterns Part-4](https://www.youtube.com/watch?v=SHCNSsCvD0I)
-- [How to implement Builder pattern in java? OOP Design Patterns Part-3](https://www.youtube.com/watch?v=G1ujhPL4eCo)
-- [When to use Builder Pattern? OOP Design Patterns Part-2](https://www.youtube.com/watch?v=TOiZ-WahJT8)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+- Model Training Success – The 3D Scene Completion model has successfully completed its initial training phase, showing promising results in reconstructing missing 3D shapes from partial point clouds.
+- Evaluation with Chamfer Distance – The model’s performance has been evaluated using Chamfer Distance, achieving a significant reduction in shape similarity error compared to previous benchmarks.
+- New Dataset Added – Added more diverse ShapeNet datasets to improve the model’s ability to generalize across different types of 3D objects and environments.
+- Real-time Inference Enabled – The model now supports real-time inference, allowing users to reconstruct 3D shapes from .ply files instantly with a user-friendly interface.
+- 
+<!-- Project Updates -LIST:END -->
 
 
 <h3 align="left">Connect with me:</h3>
