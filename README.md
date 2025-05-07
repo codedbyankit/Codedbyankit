@@ -71,20 +71,20 @@ Core Technical Skills
     <th>Message</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/urlichsanais/status/1349358736092094467">Anaïs Urlichs</a></td>
-    <td>Eddie is probably the most genuine and kind person I know in tech 🥰 providing opportunities and consistently cheering without expecting anything in return! He just recommended me for a podcast 😱</td>
+<td><a target="_blank" href="https://www.linkedin.com/in/prof-dr-shashi-shekhar-a404b81b9/?originalSubdomain=in">Sashi Shekhar</a></td>
+    <td>Ankit is a passionate Computer Science student with expertise in AI and machine learning. His hands-on work with projects like 3D Scene Completion showcases his technical proficiency and problem-solving skills.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/yalematta/status/1304541107330658313">Layale</a></td>
-    <td>Following @eddiejaoude videos helped me a lot. You'll learn by practicing during his livestreams. Check his YouTube channel!</td>
+    <td><a target="_blank" href="https://www.linkedin.com/in/sandipkishore/?originalSubdomain=in">Sandeep Kishore</a></td>
+    <td>Ankit consistently demonstrates a strong passion for AI and machine learning. His innovative approach to hands-on projects, like 3D Scene Completion, showcases both his technical aptitude and ability to tackle complex challenges.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/__nawalhmw/status/1304572901140635648">Nawal Alhamwi</a></td>
-    <td>YES, CAN'T AGREE MORE!! 💯 His videos (both the content && the way he delivers information) made me love Github more!🤩 Thanks @eddiejaoude 🌟</td>
+    <td><a target="_blank" href="">Manish Kumar</a></td>
+    <td>Ankit has been an invaluable resource to our batch, always ready to lend a helping hand. His expertise in AI, machine learning, and problem-solving has made complex concepts much easier to understand for all of us.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://twitter.com/allanregush/status/1304484456221167617">Allan Regush</a></td>
-    <td>Working with @eddiejaoude and his open source community has been a positive experience. If you have been wanting to contribute to open source but don't know where to start. Come join the community.</td>
+    <td><a target="_blank" href="">Aman Kumar</a></td>
+    <td>Ankit is a great collaborator and a problem solver. His ability to simplify complex topics in AI and machine learning has not only helped me but many others in our batch to grasp difficult concepts with ease.</td>
   </tr>
 </table>
 
