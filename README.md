@@ -1,7 +1,7 @@
 
 <h2 align="center">Hi, I'm Ankit Kumar Singh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
  
-[![Twitter Follow](https://img.shields.io/twitter/follow/ankitizsmart__?style=social)](https://twitter.com/Rishiddska5000)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ankitizsmart__?style=social)]()
 [![Mail Badge](https://img.shields.io/badge/Gmail-red?style=social&logo=gmail)](mailto:officials.ankitsingh@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/codedbyankit?style=social)](https://github.com/codedbyankit)
 
@@ -49,8 +49,7 @@ Core Technical Skills
 - Model Training Success – The 3D Scene Completion model has successfully completed its initial training phase, showing promising results in reconstructing missing 3D shapes from partial point clouds.
 - Evaluation with Chamfer Distance – The model’s performance has been evaluated using Chamfer Distance, achieving a significant reduction in shape similarity error compared to previous benchmarks.
 - New Dataset Added – Added more diverse ShapeNet datasets to improve the model’s ability to generalize across different types of 3D objects and environments.
-- Real-time Inference Enabled – The model now supports real-time inference, allowing users to reconstruct 3D shapes from .ply files instantly with a user-friendly interface.
-- 
+- Real-time Inference Enabled – The model now supports real-time inference, allowing users to reconstruct 3D shapes from .ply files instantly with a user-friendly interface. 
 <!-- Project Updates -LIST:END -->
 
 
