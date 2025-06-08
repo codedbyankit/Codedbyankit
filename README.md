@@ -11,7 +11,7 @@
 
 <h2>About me</h2>
 
-I am Ankit Kumar Singh, currently working as a Senior Software Developer [LinkedIn](https://github.com/linkedin). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
+I’m Ankit Kumar Singh, a Backend-focused Full Stack Developer with 3 years of experience. I’m passionate about learning new technologies and using them to build scalable backend systems or enhance existing AI-driven solutions. Currently focused on creating impactful infrastructure that blends software efficiency with real-world innovation.  
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
 
