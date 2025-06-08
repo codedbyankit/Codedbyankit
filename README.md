@@ -38,8 +38,11 @@ Core Technical Skills
 ![3D_Generation](https://img.shields.io/badge/3D_Generation-1C1C1C?style=for-the-badge&logo=blender&logoColor=white)
 ![Machine_Learning_Research](https://img.shields.io/badge/Machine_Learning_Research-004D00?style=for-the-badge&logo=researchgate&logoColor=white)
 ![Cloud_Computing](https://img.shields.io/badge/Cloud_Computing-FFCC33?style=for-the-badge&logo=aws&logoColor=white)
-
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 
