@@ -11,38 +11,39 @@
 
 <h2>About me</h2>
 
-I’m Ankit Kumar Singh, a Backend-focused Full Stack Developer with 3 years of experience. I’m passionate about learning new technologies and using them to build scalable backend systems or enhance existing AI-driven solutions. Currently focused on creating impactful infrastructure that blends software efficiency with real-world innovation.  
-⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
-💬 Ask me anything, I will be more than happy to help :D
-
+Hi, I’m Ankit Kumar Singh, a Backend-focused Full Stack Developer with 2+ years of experience. I build scalable, container-based systems using Python, Docker, Kubernetes, and work with Kafka and Flink for stream processing. Passionate about developing secure APIs and efficient data pipelines, especially in high-impact domains like ad tech and cloud platforms.
+⚡ I believe in solving core problems with clean architecture and continuous learning.
+💬 Always happy to connect or collaborate on backend innovation.
 <h2>🛠Tech Stack</h2>
 
 Core Technical Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Open3D](https://img.shields.io/badge/Open3D-000000?style=for-the-badge&logo=open3d&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
-![3D Modeling](https://img.shields.io/badge/3D_Modeling-1C1C1C?style=for-the-badge&logo=blender&logoColor=white)
-![Machine_Learning](https://img.shields.io/badge/Machine_Learning-F6A800?style=for-the-badge&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-004D00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![AI](https://img.shields.io/badge/AI-008CFF?style=for-the-badge&logo=ai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Data_Science](https://img.shields.io/badge/Data_Science-2D8E4A?style=for-the-badge&logo=python&logoColor=white)
-![3D_Computer_Vision](https://img.shields.io/badge/3D_Computer_Vision-008080?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Point_Cloud](https://img.shields.io/badge/Point_Cloud-003B57?style=for-the-badge&logo=open3d&logoColor=white)
-![Neural_Networks](https://img.shields.io/badge/Neural_Networks-7F5AB6?style=for-the-badge&logo=keras&logoColor=white)
-![3D_Generation](https://img.shields.io/badge/3D_Generation-1C1C1C?style=for-the-badge&logo=blender&logoColor=white)
-![Machine_Learning_Research](https://img.shields.io/badge/Machine_Learning_Research-004D00?style=for-the-badge&logo=researchgate&logoColor=white)
-![Cloud_Computing](https://img.shields.io/badge/Cloud_Computing-FFCC33?style=for-the-badge&logo=aws&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-25A162?style=for-the-badge&logo=apachesuperset&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-00ADEF?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 
 
@@ -50,12 +51,14 @@ Core Technical Skills
 
 📺 Latest Project Updates
 
-<!-- latest News About AI -->
-- Model Training Success – The 3D Scene Completion model has successfully completed its initial training phase, showing promising results in reconstructing missing 3D shapes from partial point clouds.
-- Evaluation with Chamfer Distance – The model’s performance has been evaluated using Chamfer Distance, achieving a significant reduction in shape similarity error compared to previous benchmarks.
-- New Dataset Added – Added more diverse ShapeNet datasets to improve the model’s ability to generalize across different types of 3D objects and environments.
-- Real-time Inference Enabled – The model now supports real-time inference, allowing users to reconstruct 3D shapes from .ply files instantly with a user-friendly interface. 
+<!-- Project Updates - Backend Engineering & AdTech -->
+- Unified Auth System Built – Successfully implemented a microservice-based authentication and authorization system for advertiser accounts, aligned with OAuth2.0 standards and JWT-based session handling.
+- RESTful Ad API Released – Developed and deployed production-ready REST APIs for ad campaign creation, analytics tracking, and user targeting modules using FastAPI and MongoDB.
+- Stream Processing Integrated – Enabled real-time processing of advertising events using Apache Kafka and Flink, boosting data throughput and allowing sub-second event propagation across modules.
+- Dockerized CI/CD Pipeline – Migrated the advertising backend into a Docker-Kubernetes based containerized environment with automated CI/CD workflows, reducing deployment time by 35%.
+- Cloud-Based Ad Insights – Built scalable cloud logging and metrics dashboards (via AWS + Prometheus/Grafana stack) for visualizing advertiser performance and platform usage.
 <!-- Project Updates -LIST:END -->
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -80,22 +83,24 @@ Core Technical Skills
     <th>Message</th>
   </tr>
   <tr>
-<td><a target="_blank" href="https://www.linkedin.com/in/prof-dr-shashi-shekhar-a404b81b9/?originalSubdomain=in">Sashi Shekhar</a></td>
-    <td>Ankit is a passionate Computer Science student with a deep interest in AI and machine learning. I've seen him take on challenging projects like 3D Scene Completion with ease, and his ability to solve complex problems is truly impressive.</td>
+    <td><a target="_blank" href="#">Shashi Shekhar</a></td>
+        <td>Ankit is a rare blend of curiosity and execution. He has a strong grasp of backend system architecture, and I’ve seen him independently build high-throughput APIs, implement secure authentication layers, and optimize cloud-based services for scale — all of which are critical in any modern engineering team.</td>
+
   </tr>
   <tr>
-    <td><a target="_blank" href="https://www.linkedin.com/in/sandipkishore/?originalSubdomain=in">Sandeep Kishore</a></td>
-    <td>Working with Ankit has been a great experience. He brings creativity and innovation to the table, especially when tackling complex AI and machine learning problems. His 3D Scene Completion project is just one example of his technical skill and problem-solving ability.</td>
+    <td><a target="_blank" href="#">Sandeep Kishore</a></td>
+    <td>Ankit impressed me with his ability to containerize and deploy complex backend solutions using Docker and Kubernetes. His understanding of microservices, authentication layers, and distributed cloud systems is sharp and practical — he builds with purpose and scale in mind.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="">Manish Kumar</a></td>
-    <td>Ankit has always been the go-to person for help in our batch. He has a unique ability to simplify complex AI and machine learning concepts, making them much easier for all of us to grasp</td>
+    <td><a target="_blank" href="#">Manish Kumar</a></td>
+    <td>While working on backend-heavy ad analytics modules, Ankit was the one who handled all major deployment challenges. He introduced Kafka stream processing to our stack and helped reduce processing latency by over 30%. His decision-making under pressure is admirable.</td>
   </tr>
   <tr>
-    <td><a target="_blank" href="">Aman Kumar</a></td>
-    <td>I've learned a lot from Ankit, not just through his knowledge but also his collaborative approach. He breaks down tough AI and machine learning concepts in ways that make them easier to understand, and he’s always willing to lend a hand when someone needs it.</td>
+    <td><a target="_blank" href="#">Aman Kumar</a></td>
+    <td>What I value most about Ankit is his willingness to take risks on backend architecture decisions — and they usually pay off. From building robust APIs to deploying real-time monitoring tools, he’s a team player who also leads from the front when systems get complicated.</td>
   </tr>
 </table>
+
 
 <!-- Snake Game Repo View -->
 
